@@ -1,0 +1,71 @@
+body 
+{
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size:70%;
+}
+
+.kick {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  margin-top: 10px;
+}
+
+.kick:hover {
+  background-color: #2d0af5;
+  color: white;
+}
+
+.punch {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  position: relative;
+  margin-top: 10px;
+}
+
+.punch:hover {
+  background-color: #2d0af5;
+  color: white;
+}
+
+.forward {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  position: relative;
+  margin-top: 10px;
+}
+
+.forward:hover {
+  background-color: #2d0af5;
+  color: white;
+}
+
+.backward {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  position: relative;
+  margin-top: 10px;
+}
+
+.backward:hover {
+  background-color: #2d0af5;
+  color: white;
+}
+
+.block {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  position: relative;
+  margin-top: 10px;
+}
+
+.block:hover {
+  background-color: #2d0af5;
+  color: white
+}

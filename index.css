@@ -1,0 +1,16 @@
+.my-heading
+{
+    text-align:center; 
+    background-color: skyblue;
+    text-decoration:underline
+}
+
+.emphasis
+{
+    font-style:italic;
+}
+
+.center
+{
+    text-align: center;
+}
